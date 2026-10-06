@@ -1,0 +1,17 @@
+# Code::Blocks build directories
+bin/
+obj/
+
+# Executables and object files
+*.exe
+*.o
+*.a
+*.dll
+
+# Code::Blocks layout and dependencies
+*.layout
+*.depend
+
+# Temporary and backup files
+*~
+*.bak
